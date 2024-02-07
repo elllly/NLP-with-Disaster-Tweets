@@ -8,10 +8,11 @@ Key Features:
 --------------
 - Tweet Processing with Spacy: Utilized Spacy for accurate and efficient tweet processing, enhancing the model's understanding of natural language.
 - Logistic Regression Model: Developed a logistic regression model for disaster tweet classification, leveraging its simplicity and interpretability.
-- Hyperparameter Tuning: Conducted rigorous hyperparameter tuning to optimize the model's performance. Achieved a commendable accuracy of 0.79803 using the F1 score.
+- Hyperparameter Tuning: Conducted rigorous hyperparameter tuning to optimize the model's performance.
+- Achieved a commendable accuracy of 0.79803 using the F1 score.
 
 Dependencies:
 --------------
-- Python 3.x
+- Python 3.10
 - Spacy
 - Scikit-learn
